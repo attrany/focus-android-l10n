@@ -3,20 +3,21 @@
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-11 13:52-0800\n"
-"PO-Revision-Date: 2018-10-30 21:58+0000\n"
-"Last-Translator: Donald Lam <dlamty@gmail.com>\n"
-"Language: zh_Hant_HK\n"
-"Language-Team: zh_Hant_HK <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=(0)\n"
+"PO-Revision-Date: 2019-05-30 09:34+0000\n"
+"Last-Translator: admin <admin@admin.com>\n"
+"Language-Team: Chinese (Hong Kong) <http://example.com/projects/test/test/"
+"zh_Hant_HK/>\n"
+"Language: zh-HK\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 3.6.1\n"
 "Generated-By: Babel 2.4.0\n"
 
 #. #######################################################################################
@@ -27,7 +28,7 @@ msgstr ""
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "取消"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_ok"
@@ -41,7 +42,7 @@ msgstr "儲存"
 #. This text is shown in the URL bar when it's empty
 msgctxt "urlbar_hint"
 msgid "Search or enter address"
-msgstr ""
+msgstr "搜索或输入地址"
 
 msgctxt "teaser"
 msgid ""
@@ -1693,4 +1694,3 @@ msgstr ""
 msgctxt "content_blocking_snackbar_disable_action"
 msgid "Disable"
 msgstr ""
-
